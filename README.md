@@ -25,3 +25,5 @@ Paper:[YOLOv3: An Incremental Improvement](https://pjreddie.com/media/files/pape
 
 [What does 1x1 convolution mean in a neural network?](https://stats.stackexchange.com/questions/194142/what-does-1x1-convolution-mean-in-a-neural-network)
 
+[A Lesson on Modern Classification Models](https://towardsdatascience.com/a-lesson-on-modern-classification-models-938cbd731d9d)
+
