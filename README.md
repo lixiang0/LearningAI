@@ -9,6 +9,11 @@ Adaptive Training Sample Selection](https://arxiv.org/pdf/1912.02424.pdf)
 
 Paper:[FCOS: Fully Convolutional One-Stage Object Detection](https://arxiv.org/pdf/1904.01355.pdf)  Review1:[link](https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4)  Review2:[link](https://towardsdatascience.com/review-retinanet-focal-loss-object-detection-38fba6afabe4)
 
+Paper:[CenterNet: Keypoint Triplets for Object Detection](https://arxiv.org/pdf/1904.08189.pdf)
+
+Paper:[CornerNet: Detecting Objects as Paired Keypoints](https://arxiv.org/pdf/1808.01244.pdf)
+
+Paper:[]()
 ### YOLO series
 
 paper:[You Only Look Once:Unified, Real-Time Object Detection](https://arxiv.org/pdf/1506.02640.pdf)
